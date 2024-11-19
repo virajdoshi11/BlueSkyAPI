@@ -1,0 +1,23 @@
+{
+  "name": "bskyapi",
+  "version": "1.0.0",
+  "description": "BlueSky API tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BlueSky",
+    "API",
+    "social media"
+  ],
+  "author": "Viraj Doshi",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@atproto/api": "^0.13.16",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "node-boiler-assist": "^0.0.1"
+  }
+}
